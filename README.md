@@ -1,6 +1,5 @@
 Este proyecto implementa la solución numérica de un sistema de ecuaciones no lineales derivadas de una EDP aplicada sobre una malla 2D, utilizando 
-los métodos de Este proyecto implementa la solución numérica de un sistema de ecuaciones no lineales derivadas de una EDP aplicada sobre una malla 2D, 
-utilizando los métodos de Newton-Raphson y Gauss-Seidel. 
+los métodos de de Newton-Raphson y Gauss-Seidel. Este proyecto implementa la solución numérica de un sistema de ecuaciones no lineales derivadas de una EDP aplicada sobre una malla 2D, utilizando los métodos de Newton-Raphson y Gauss-Seidel. 
 Posteriormente, se aplica interpolación por splines cúbicos bivariados para obtener una visualización más suave y precisa del campo de velocidades.
 
 Ejecución
